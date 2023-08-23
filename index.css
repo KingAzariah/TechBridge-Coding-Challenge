@@ -1,0 +1,13 @@
+h1 {
+    text-decoration: underline;
+}
+
+h3 {
+    color: green;
+    text-decoration: underline;
+}
+
+.buttons {
+    color: red;
+    text-decoration: underline;
+}
