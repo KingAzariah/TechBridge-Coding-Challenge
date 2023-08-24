@@ -55,7 +55,8 @@ h3 {
 }
 
 .grid-container {
-
+    display: grid;
+    justify-content: center;
 }
 
 .button1 {
@@ -75,7 +76,8 @@ h3 {
 }
 
 .grid-container1 {
-
+    display: grid;
+    justify-content: center;
 }
 
 .button4 {
@@ -95,7 +97,8 @@ h3 {
 }
 
 .grid-container2 {
-    
+    display: grid;
+    justify-content: space-between;
 }
 
 .button7 {
