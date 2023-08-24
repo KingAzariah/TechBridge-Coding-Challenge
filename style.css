@@ -162,3 +162,7 @@ h3 {
     margin: 10px;
 }
 
+#page {
+    max-width: 800px;
+}
+
