@@ -56,7 +56,7 @@ h3 {
 
 .flex-container1 {
     display: flex;
-    justify-content: center;
+    justify-content: center, space-evenly;
 }
 
 .button1 {
@@ -64,6 +64,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .button2 {
@@ -71,6 +72,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .button3 {
@@ -78,6 +80,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .changeall {
@@ -85,6 +88,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .flex-container2 {
@@ -97,6 +101,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .button5 {
@@ -104,6 +109,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .button6 {
@@ -111,6 +117,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .hideall {
@@ -118,11 +125,12 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .flex-container3 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center, space-between;
 }
 
 .button7 {
@@ -130,6 +138,7 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
 .button8 {
@@ -137,5 +146,6 @@ h3 {
     font-size: 16px;
     padding: 14px, 40px;
     border: none;
+    width: 200px;
 }
 
