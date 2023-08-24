@@ -132,8 +132,8 @@ h3 {
 
 .flex-container3 {
     display: flex;
-    justify-content: center;
-}
+    justify-content: center, flex-start, space-between;
+    }
 
 .button7 {
     background-color: lightgrey;
