@@ -22,7 +22,7 @@ h3 {
 .flex-container {
     display: flex;
     flex-direction: row;
-    justify-content: center, space-between;
+    justify-content: center;
 }
 
 .box1 {
