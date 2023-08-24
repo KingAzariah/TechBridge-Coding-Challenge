@@ -141,7 +141,7 @@ h3 {
 
 .flex-container3 {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     }
 
 .button7 {
