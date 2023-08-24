@@ -23,6 +23,18 @@
       element.classList.remove("black-box");
       element.classList.add("blue-box");
     }
+    function hideBox1() {
+      var element = document.getElementById("box1");
+      element.classList.remove("green-box");
+    }
+    function hideBox2() {
+      var element = document.getElementById("box2");
+      element.classList.remove("yellow-box");
+    }
+    function hideBox3() {
+      var element = document.getElementById("box3");
+      element.classList.remove("black-box");
+    }
     function changeAll() {
       const nodes = document.getElementsByClassName("box");
       element.classList.add("blue-box");
@@ -50,9 +62,9 @@
     <h5 class="buttons">Hide Buttons</h5>
     <br>
     <div class="button-group">
-      <button id="button4">Hide Box 1</button>
-      <button id="button5">Hide Box 2</button>
-      <button id="button6">Hide Box 3</button>
+      <button id="button4" onclick="hideBox1()">Hide Box 1</button>
+      <button id="button5" onclick="hideBox2()">Hide Box 2</button>
+      <button id="button6" onclick="hideBox3()">Hide Box 3</button>
       <button id="hideall">Hide All</button>
     </div>
     <br>
