@@ -7,7 +7,12 @@
     <title>Bootstrap and JS/jQuery Worksheet</title>
   </head>
   <body>
-  
+  <script>
+    function changeBox1() {
+      var element = document.getElementById("box1");
+      element.classList.remove("green-box");
+    }
+  </script>
     <h5>Bootstrap and JS/jQuery Worksheet</h5>
     
     <h2>Week 0 Class Work</h2>
@@ -21,7 +26,7 @@
     <h3>Change Buttons</h3>
     <br>
     <div class="button-group">
-      <button id="button1">Change Box 1</button>
+      <button id="button1" onclick="changeBox1()">Change Box 1</button>
       <button id="button2">Change Box 2</button>
       <button id="button3">Change Box 3</button>
       <button id="changeall">Change All</button>
