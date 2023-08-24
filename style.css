@@ -27,22 +27,23 @@ h3 {
 
 .box1 {
     background-color: green;
-    border: black, solid;
+    border: black, solid, 1px;
     height: 50px;
     width: 50px;
 }
 
 .box2 {
     background-color: yellow;
-    border: green, solid;
+    border: green, solid, 1px;
     border-style: dashed;
     height: 50px;
     width: 50px;
+    margin: auto;
 }
 
 .box3 {
     background-color: black;
-    border: yellow, solid;
+    border: yellow, solid, 1px;
     height: 50px;
     width: 50px;
 }
