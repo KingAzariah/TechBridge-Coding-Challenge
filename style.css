@@ -25,7 +25,7 @@ h3 {
     justify-content: center;
 }
 
-.box1 {
+#box1 {
     background-color: green;
     border: 2px solid black;
     border-width: medium;
@@ -35,7 +35,7 @@ h3 {
     margin: 10px;
 }
 
-.box2 {
+#box2 {
     background-color: yellow;
     border: green solid 2px;
     border-style: dashed;
@@ -44,7 +44,7 @@ h3 {
     margin: 10px;
 }
 
-.box3 {
+#box3 {
     background-color: black;
     border: 2px solid yellow;
     border-width: medium;
@@ -53,14 +53,18 @@ h3 {
     margin: 10px;
 }
 
-.flex-container1 {
+.button-group {
     display: flex;
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
 }
 
-.button1 {
+#last-button-group {
+    justify-content: space-around;
+}
+
+#button1 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -70,7 +74,7 @@ h3 {
     
 }
 
-.button2 {
+#button2 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -79,7 +83,7 @@ h3 {
     margin: 10px;
 }
 
-.button3 {
+#button3 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -88,7 +92,7 @@ h3 {
     margin: 10px;
 }
 
-.changeall {
+#changeall {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -97,12 +101,8 @@ h3 {
     margin: 10px;
 }
 
-.flex-container2 {
-    display: flex;
-    justify-content: center;
-}
 
-.button4 {
+#button4 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -111,7 +111,7 @@ h3 {
     margin: 10px;
 }
 
-.button5 {
+#button5 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -120,7 +120,7 @@ h3 {
     margin: 10px;
 }
 
-.button6 {
+#button6 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -129,7 +129,7 @@ h3 {
     margin: 10px;
 }
 
-.hideall {
+#hideall {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -138,12 +138,9 @@ h3 {
     margin: 10px;
 }
 
-.flex-container3 {
-    display: flex;
-    justify-content: space-around;
-    }
 
-.button7 {
+
+#button7 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
@@ -152,7 +149,7 @@ h3 {
     margin: 10px;
 }
 
-.button8 {
+#button8 {
     background-color: lightgrey;
     font-size: 16px;
     padding: 20px, 40px;
