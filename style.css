@@ -31,7 +31,7 @@ h3 {
     margin: 10px;
 }
 
-#box1 {
+.green-box {
     background-color: green;
     border: 2px solid black;
     border-width: medium;
@@ -39,14 +39,14 @@ h3 {
     
 }
 
-#box2 {
+.yellow-box {
     background-color: yellow;
     border: green solid 2px;
     border-style: dashed;
     
 }
 
-#box3 {
+.black-box {
     background-color: black;
     border: 2px solid yellow;
     border-width: medium;
