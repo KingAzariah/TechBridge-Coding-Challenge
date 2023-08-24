@@ -1,21 +1,20 @@
-h1 {
-    text-decoration: underline;
+h5 {
     text-align: center;
 }
 
 h2 {
-    text-decoration: underline;
     text-align: center;
-}
-
-.buttons {
-    color: red;
     text-decoration: underline;
-    text-align: center;
 }
 
 h3 {
-    color: green;
     text-align: center;
     text-decoration: underline;
+    color: green;
+}
+
+.buttons {
+    text-align: center;
+    text-decoration: underline;
+    color: red;
 }
