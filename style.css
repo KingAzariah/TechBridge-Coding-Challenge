@@ -49,8 +49,13 @@ h3 {
 .black-box {
     background-color: black;
     border: 2px solid yellow;
+    border-width: medium;   
+}
+
+.blue-box {
+    background-color: blue;
+    border: 2px solid white;
     border-width: medium;
-    
 }
 
 .button-group {
@@ -157,6 +162,8 @@ h3 {
     width: 200px;
     margin: 10px;
 }
+
+
 
 
 

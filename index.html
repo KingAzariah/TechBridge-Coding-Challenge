@@ -13,6 +13,10 @@
       element.classList.remove("green-box");
       element.classList.add("yellow-box");
     }
+    function changeAll() {
+      var element = document.getElementByClassName("box");
+      element.classList.add("blue-box");
+    }
   </script>
     <h5>Bootstrap and JS/jQuery Worksheet</h5>
     
@@ -30,7 +34,7 @@
       <button id="button1" onclick="changeBox1()">Change Box 1</button>
       <button id="button2">Change Box 2</button>
       <button id="button3">Change Box 3</button>
-      <button id="changeall">Change All</button>
+      <button id="changeall" onclick="changeAll()">Change All</button>
     </div>
     <br>
     <h5 class="buttons">Hide Buttons</h5>
