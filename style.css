@@ -4,7 +4,6 @@ h1 {
 }
 
 h2 {
-    color: green;
     text-decoration: underline;
     text-align: center;
 }
@@ -13,4 +12,10 @@ h2 {
     color: red;
     text-decoration: underline;
     text-align: center;
+}
+
+h3 {
+    color: green;
+    text-align: center;
+    text-decoration: underline;
 }
