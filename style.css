@@ -25,32 +25,32 @@ h3 {
     justify-content: center;
 }
 
+.box {
+    height: 75px;
+    width: 75px;
+    margin: 10px;
+}
+
 #box1 {
     background-color: green;
     border: 2px solid black;
     border-width: medium;
     border-color: black;
-    height: 75px;
-    width: 75px;
-    margin: 10px;
+    
 }
 
 #box2 {
     background-color: yellow;
     border: green solid 2px;
     border-style: dashed;
-    height: 75px;
-    width: 75px;
-    margin: 10px;
+    
 }
 
 #box3 {
     background-color: black;
     border: 2px solid yellow;
     border-width: medium;
-    height: 75px;
-    width: 75px;
-    margin: 10px;
+    
 }
 
 .button-group {
