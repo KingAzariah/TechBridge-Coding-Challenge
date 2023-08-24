@@ -36,7 +36,7 @@
       element.classList.remove("black-box");
     }
     function changeAll() {
-      const boxex = document.querySelectorAll("box");
+      const boxes = document.querySelectorAll("box");
       element.classList.add("blue-box");
     }
   </script>
@@ -69,8 +69,8 @@
     </div>
     <br>
     <div class="button-group" id="last-button-group">
-      <button id="button7">Reset Colors</button>
-      <button id="button8">Show All</button>
+      <button id="button7" onclick="resetColors()">Reset Colors</button>
+      <button id="button8" onclick="showAll()">Show All</button>
     </div>
   </script>
 </body>
