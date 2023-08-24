@@ -57,6 +57,7 @@ h3 {
 .flex-container1 {
     display: flex;
     justify-content: center;
+    align-content: center;
 }
 
 .button1 {
