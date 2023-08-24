@@ -22,5 +22,27 @@ h3 {
 .flex-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
+}
+
+.box1 {
+    color: green;
+    border: black, solid;
+    height: 25px;
+    width: 25px;
+}
+
+.box2 {
+    color: yellow;
+    border: green, solid;
+    border-style: dashed;
+    height: 25px;
+    width: 25px;
+}
+
+.box3 {
+    color: black;
+    border: yellow, solid;
+    height: 25px;
+    width: 25px;
 }
