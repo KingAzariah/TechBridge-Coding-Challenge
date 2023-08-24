@@ -32,7 +32,7 @@ h3 {
     border-color: black;
     height: 75px;
     width: 75px;
-    margin: auto;
+    margin: 10px;
 }
 
 .box2 {
@@ -41,7 +41,7 @@ h3 {
     border-style: dashed;
     height: 75px;
     width: 75px;
-    margin: auto;
+    margin: 10px;
 }
 
 .box3 {
@@ -51,7 +51,7 @@ h3 {
     border-width: medium;
     height: 75px;
     width: 75px;
-    margin: auto;
+    margin: 10px;
 }
 
 .flex-container1 {
@@ -83,6 +83,7 @@ h3 {
     padding: 14px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .changeall {
@@ -91,6 +92,7 @@ h3 {
     padding: 14px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .flex-container2 {
@@ -104,6 +106,7 @@ h3 {
     padding: 14px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .button5 {
@@ -112,6 +115,7 @@ h3 {
     padding: 14px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .button6 {
