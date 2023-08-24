@@ -64,23 +64,26 @@ h3 {
 .button1 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
+    
 }
 
 .button2 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .button3 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
     margin: 10px;
@@ -89,7 +92,7 @@ h3 {
 .changeall {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
     margin: 10px;
@@ -103,7 +106,7 @@ h3 {
 .button4 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
     margin: 10px;
@@ -112,7 +115,7 @@ h3 {
 .button5 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
     margin: 10px;
@@ -121,17 +124,19 @@ h3 {
 .button6 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .hideall {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .flex-container3 {
@@ -142,16 +147,18 @@ h3 {
 .button7 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
 .button8 {
     background-color: lightgrey;
     font-size: 16px;
-    padding: 14px, 40px;
+    padding: 20px, 40px;
     border: none;
     width: 200px;
+    margin: 10px;
 }
 
