@@ -28,6 +28,7 @@ h3 {
 .box1 {
     background-color: green;
     border: black, solid, 5px;
+    border-width: medium;
     height: 75px;
     width: 75px;
     margin: auto;
@@ -45,6 +46,7 @@ h3 {
 .box3 {
     background-color: black;
     border: yellow, solid, 5px;
+    border-width: medium;
     height: 75px;
     width: 75px;
     margin: auto;
