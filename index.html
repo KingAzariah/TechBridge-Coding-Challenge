@@ -82,6 +82,13 @@
         });
       }
 
+      function hideAll() {
+        var boxes = document.querySelectorAll('.box');
+        boxes.forEach(function(box) {
+          box.classList.remove("green-box", "yellow-box", "black-box");
+        });
+      }
+
       function resetColors() {
         var boxes = document.querySelectorAll('.box');
         boxes.forEach(function(box) {
