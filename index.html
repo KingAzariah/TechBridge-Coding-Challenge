@@ -77,8 +77,7 @@
       function changeAll() {
         var boxes = document.querySelectorAll('.box');
         boxes.forEach(function(box) {
-          box.classList.remove("green-box");
-          box.classList.remove("yellow-box");
+          box.classList.remove("green-box", "yellow-box");
           box.classList.add("blue-box");
         });
       }
@@ -86,9 +85,8 @@
       function resetColors() {
         var boxes = document.querySelectorAll('.box');
         boxes.forEach(function(box) {
-          box.classList.add("green-box");
-          box.classList.add("yellow-box");
-          box.classList.add("blue-box");
+          box.classList.remove("green-box", "yellow-box", "blue-box");
+          box.classList.add("box", "green-box", "yellow-box", "blue-box");
         });
       }
 
